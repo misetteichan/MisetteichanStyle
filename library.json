@@ -1,0 +1,26 @@
+{
+  "name": "MisetteichanStyle",
+  "version": "0.0.0",
+  "description": "Library that make it easy for misetteichan.",
+  "keywords": "misetteichan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misetteichan/MisetteichanStyle"
+  },
+  "authors": [
+    {
+      "name": "misetteichan",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["*"],
+  "dependencies": [
+    {
+      "name": "M5Unified",
+      "version": ">=0.2.0"
+    }
+  ],
+  "headers": "MisetteichanStyle.h"
+}
